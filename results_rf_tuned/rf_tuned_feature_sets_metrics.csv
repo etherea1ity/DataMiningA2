@@ -1,0 +1,5 @@
+feature_set,best_params,cv_best_score_f1_macro,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
+all_features,"{""classifier__max_depth"": null, ""classifier__min_samples_leaf"": 1, ""classifier__n_estimators"": 100}",0.9999729340596094,0.999978795139846,0.9999814615698343,0.9999752340383377,0.9999783473255621
+features_without_targets,"{""classifier__max_depth"": null, ""classifier__min_samples_leaf"": 1, ""classifier__n_estimators"": 300}",0.999962107498607,1.0,1.0,1.0,1.0
+selected_features,"{""classifier__max_depth"": 20, ""classifier__min_samples_leaf"": 1, ""classifier__n_estimators"": 300}",0.9999133877328106,0.9998303611187684,0.9998517310401067,0.9998018723067017,0.9998267710487512
+selected_features_without_targets,"{""classifier__max_depth"": null, ""classifier__min_samples_leaf"": 1, ""classifier__n_estimators"": 300}",0.9999133880363756,0.9998515659789223,0.9998702598509841,0.999826638268364,0.9998484256125784
